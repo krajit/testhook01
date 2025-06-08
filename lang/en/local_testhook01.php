@@ -20,7 +20,7 @@
  * @package     local_testhook01
  * @category    string
  * @copyright   2025 Ajit Kunar <ajitkumar22@gmail.com>
- * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or lateralert-success
  */
 
 defined('MOODLE_INTERNAL') || die();
