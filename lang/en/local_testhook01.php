@@ -26,3 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'testhook';
+$string['hellomessage'] = 'Hello from HOOK API';
